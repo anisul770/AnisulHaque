@@ -1,0 +1,175 @@
+<!-- index.html -->
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Anisul Haque - Portfolio</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <canvas id="bg" aria-hidden="true"></canvas>
+    <div class="cursor" aria-hidden="true"></div>
+
+    <header class="site-header">
+        <a href="#" class="brand">Your<span>Dev</span></a>
+        <nav class="nav">
+            <a href="#about">About</a>
+            <a href="#projects">Projects</a>
+            <a href="#algorithms">Algorithms</a>
+            <a href="#contact">Contact</a>
+        </nav>
+        <button class="theme-toggle" aria-label="Toggle theme">◎</button>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="blob" aria-hidden="true"></div>
+            <h1 class="title reveal">
+                Hi, I’m <span class="grad">Anisul Haque</span>
+            </h1>
+            <p class="subtitle reveal">
+                Building fast web-based apps, solving hard problems, and crafting delightful UIs.
+            </p>
+            <div class="cta reveal">
+                <a class="btn magnetic" href="#projects">View Projects</a>
+                <a class="btn ghost magnetic" href="#contact">Contact Me</a>
+            </div>
+            <div class="quick-links reveal">
+                <!-- Replace with your actual handles/usernames in content only -->
+                <span>GitHub: <a href="https://github.com/anisul770/" class="code-profile"
+                        target="_blank">@anisul770</a></span>
+                <span>LeetCode: <a href="https://leetcode.com/u/anisul770/" class="code-profile"
+                        target="_blank">@anisul770</a></span>
+                <span>Codeforces: <a href="https://codeforces.com/profile/anisul770" class="code-profile"
+                        target="_blank">@anisul770</a></span>
+            </div>
+        </section>
+
+        <section id="about" class="section">
+            <h2 class="section-title reveal">About</h2>
+            <div class="about-grid">
+                <p class="reveal">
+                    Student developer focused on modern web stacks, algorithms, and systems fundamentals. Passionate
+                    about performance, accessibility, and polished developer experience.
+                </p>
+                <ul class="tags reveal">
+                    <li>JavaScript</li>
+                    <li>React</li>
+                    <li>Node</li>
+                    <li>Postgres</li>
+                    <li>python</li>
+                    <li>C++</li>
+                    <li>C</li>
+                    <li>Java</li>
+                    <li>Django</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="projects" class="section">
+            <h2 class="section-title reveal">Projects</h2>
+            <div class="grid">
+                <a href="https://task-management-68kc.onrender.com/tasks/manager_dashboard/" class="project-card"
+                    target="_blank">
+                    <article class="card reveal">
+                        <h3>Task Management</h3>
+                        <p>High‑performance full‑stack app with real‑time updates and robust DX.</p>
+                        <div class="meta">
+                            <span>Django</span><span>tailwind</span><span>Postgres</span>
+                        </div>
+                    </article>
+                </a>
+                <a href="https://anisul770.github.io/bar/" class="project-card" target="_blank">
+                    <article class="card reveal">
+                        <h3>Bar</h3>
+                        <p>Design‑system driven API library with search system.</p>
+                        <div class="meta">
+                            <span>JavaScript</span><span>bootstrap</span><span>html</span>
+                        </div>
+                    </article>
+                </a>
+                <a href="https://github.com/anisul770/Flight_Booking" class="project-card" target="_blank">
+                    <article class="card reveal">
+                        <h3>Flight Booking</h3>
+                        <p>A complete OOP project submitted for exam.</p>
+                        <div class="meta">
+                            <span>Java</span><span>Algorithms</span>
+                        </div>
+                    </article>
+                </a>
+            </div>
+            <span style="color: gray;">(This project is still under development)</span>
+        </section>
+
+        <section id="algorithms" class="section">
+            <h2 class="section-title reveal">Algorithms</h2>
+            <div class="stats reveal">
+                <!-- Replace mock numbers with your real stats -->
+                <div class="stat">
+                    <div class="value">68+</div>
+                    <div class="label">LeetCode solved</div>
+                </div>
+                <div class="stat">
+                    <div class="value">Competent</div>
+                    <div class="label">Problem solver</div>
+                </div>
+                <div class="stat">
+                    <div class="value">170+</div>
+                    <div class="label">GitHub commits</div>
+                </div>
+            </div>
+            <p class="note reveal" hidden>
+                Tip: You can wire this section to your own data source or keep it as a curated highlight.
+            </p>
+        </section>
+
+        <section id="contact" class="section">
+            <h2 class="section-title reveal">Contact</h2>
+            <div class="contact-card reveal">
+                <p>Let’s collaborate on impactful products or research‑driven builds.</p>
+                <a class="btn magnetic" href="anisulhaque773@gmail.com">Send Email</a>
+            </div>
+        </section>
+    </main>
+
+    <section id="social" class="section">
+        <h2 class="section-title reveal">Social</h2>
+        <div class="social reveal">
+            <a class="social-link" href="https://www.linkedin.com/in/anisul770" target="_blank"
+                rel="noopener noreferrer" aria-label="LinkedIn profile">
+                <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
+                    <path fill="currentColor"
+                        d="M4.98 3.5a2.5 2.5 0 1 1 0 5.001a2.5 2.5 0 0 1 0-5.001M3.5 9h3v11h-3zM10 9h2.86v1.65h.04c.4-.76 1.38-1.56 2.84-1.56C18.5 9.09 20 10.5 20 13.2V20h-3v-5.77c0-1.37-.49-2.31-1.72-2.31c-.94 0-1.5.63-1.75 1.24c-.09.21-.11.5-.11.8V20H10z" />
+                </svg>
+                <span>LinkedIn</span>
+            </a>
+            <a class="social-link" href="https://www.instagram.com/anisul_haque_" target="_blank"
+                rel="noopener noreferrer" aria-label="Instagram profile">
+                <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
+                    <path fill="currentColor"
+                        d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3zm5 3.5A5.5 5.5 0 1 1 6.5 13A5.5 5.5 0 0 1 12 7.5m0 2A3.5 3.5 0 1 0 15.5 13A3.5 3.5 0 0 0 12 9.5m5.75-3.25a1 1 0 1 1-1 1a1 1 0 0 1 1-1" />
+                </svg>
+                <span>Instagram</span>
+            </a>
+            <a class="social-link" href="https://www.facebook.com/anisulhaque.anisulhaque.9" target="_blank" rel="noopener noreferrer"
+                aria-label="Facebook profile">
+                <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
+                    <path fill="currentColor"
+                        d="M13 3h3a1 1 0 0 1 1 1v3h-3a1 1 0 0 0-1 1v3h4l-.5 3H13v7h-3v-7H7v-3h3V8a4 4 0 0 1 4-4" />
+                </svg>
+                <span>Facebook</span>
+            </a>
+        </div>
+    </section>
+
+    <footer class="site-footer">
+        <span>© <span id="year"></span> Anisul Haque</span>
+    </footer>
+
+    <script src="script.js" defer></script>
+</body>
+
+</html>
