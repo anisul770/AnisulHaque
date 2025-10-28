@@ -1,5 +1,5 @@
 <!-- Profile README for Anisul Haque -->
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=anisul770&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
 </p>
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Anisul Haque</span></h1>
