@@ -90,7 +90,7 @@
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:anisulhaque770@gmail.com">
+<a href="mailto:anisulhaque773@gmail.com">
   <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
