@@ -28,8 +28,9 @@ I'm a student at Politecnico di Torino (PoliTo), passionate about web developmen
 - [Codeforces](https://codeforces.com/profile/anisul770)
 - [GitHub](https://github.com/anisul770)
 
-![Anisul770's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anisul770&show_icons=true)
-
+![](https://github-readme-stats.vercel.app/api?username=anisul770&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anisul770&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anisul770&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ---
 
 Student 👨‍💻 | Full-Stack Developer | Exploring AI/ML
