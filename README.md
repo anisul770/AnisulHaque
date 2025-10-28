@@ -49,7 +49,7 @@
 
 ## 📊 Stats & Profiles
 
-### 🔗 Connect With Me
+### 🔗 Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/u/anisulhaque773/">
@@ -58,8 +58,8 @@
   <a href="https://codeforces.com/profile/anisul770">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" />
   </a>
-  <a href="https://github.com/anisul770">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.hackerrank.com/profile/anisul773">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
 </p>
 
@@ -74,6 +74,21 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisul770&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" height="150" />
+</p>
+
+### 🔗 Connect With Me
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anisul770/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/anisul_haque_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:anisulhaque770@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
