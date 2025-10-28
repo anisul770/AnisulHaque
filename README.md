@@ -76,20 +76,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisul770&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" height="150" />
 </p>
 
-### 🔗 Connect With Me
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anisul770/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/anisul_haque_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:anisulhaque770@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+✨ Let's connect and grow together! ✨  
+
+<a href="https://www.linkedin.com/in/anisul770/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/anisul_haque_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:anisulhaque770@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+</div>
 
 ---
 
