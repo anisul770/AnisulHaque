@@ -20,7 +20,7 @@ I'm a student at Politecnico di Torino (PoliTo), passionate about web developmen
 
 ## 📊 Stats & Profiles
 
-[LeetCode](https://leetcode.com/u/anisulhaque773/) [[Codeforces](https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg)](https://codeforces.com/profile/anisul770) [GitHub](https://github.com/anisul770)
+[LeetCode](https://leetcode.com/u/anisulhaque773/) [![Codeforces](https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg)](https://codeforces.com/profile/anisul770) [GitHub](https://github.com/anisul770)
 
 ![](https://github-readme-stats.vercel.app/api?username=anisul770&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anisul770&theme=dark&hide_border=false)<br/>
