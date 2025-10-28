@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Django+%7C+MERN;AI+%26+Machine+Learning+Enthusiast;Passionate+about+Clean+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Software-Developer;Full-Stack+Developer;React+%7C+Django+%7C+MERN;AI+%26+Machine+Learning+Enthusiast;Passionate+about+Clean+Code" alt="Typing Animation" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anisul770&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anisul770&theme=tokyonight&hide_border=false" height="170" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=YeacinSanto&theme=dark&hide_border=false" height="170" />
 </p>
 
 <p align="center">
