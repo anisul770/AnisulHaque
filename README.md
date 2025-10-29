@@ -18,7 +18,7 @@
 ## 💼 What I Do
 
 - 🌐 Full-Stack Developer (**MERN** & **Django**)  
-- ⚛️ Hands-on experience in **React.js** and front-end development  
+- ⚛️ Hands-on experience in **Django** and front-end development  
 - 🧩 Strong foundations in **DSA**, **OOP**, and **DBMS**  
 - 🤖 Currently exploring **AI** and **Machine Learning**
 
