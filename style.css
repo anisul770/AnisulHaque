@@ -9,6 +9,11 @@
   --accent-2: #00e5ff;
   --accent-3: #ff6ec7;
   --ring: rgba(123,92,255,.45);
+  --canvas-trail: rgba(11,11,20,0.12);
+  --particle-hue1: 260;
+  --particle-hue2: 320;
+  --particle-sat: 90%;
+  --particle-light: 60%;
 }
 
 * { box-sizing: border-box; }
@@ -33,7 +38,8 @@ body {
   width: 100vw;
   height: 100vh;
   z-index: -2;
-  filter: saturate(1.1) brightness(1.1);
+  filter: saturate(1.1) brightness(0.9);
+
 }
 
 .cursor {
@@ -230,6 +236,11 @@ body {
   --card: rgba(0,0,0,0.04);
   --glass: rgba(0,0,0,0.06);
   --ring: rgba(123,92,255,.25);
+  --canvas-trail: rgba(247,247,251,0.12);
+  --particle-hue1: 200;
+  --particle-hue2: 260;
+  --particle-sat: 70%;
+  --particle-light: 40%;
 }
 .light .nav a:hover { background: rgba(0,0,0,0.06); }
 

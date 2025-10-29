@@ -33,6 +33,7 @@ class Particle {
     this.theta = rand(0, Math.PI * 2);
     this.size = rand(0.8, 2.2) * dpr;
     this.hue = rand(250, 320); // purples
+    
   }
   step(dt) {
     // Flow field using sin/cos of position and time for organic motion
