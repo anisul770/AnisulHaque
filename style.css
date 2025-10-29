@@ -236,7 +236,7 @@ body {
   --card: rgba(0,0,0,0.04);
   --glass: rgba(0,0,0,0.06);
   --ring: rgba(123,92,255,.25);
-  --canvas-trail: rgba(247,247,251,0.12);
+  --canvas-trail: rgb(247, 247, 251);
   --particle-hue1: 200;
   --particle-hue2: 260;
   --particle-sat: 70%;

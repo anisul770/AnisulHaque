@@ -3,8 +3,9 @@ const canvas = document.getElementById('bg');
 const ctx = canvas.getContext('2d', { alpha: true });
 let w, h, dpr;
 const particles = [];
-const P_COUNT = 420;
+const P_COUNT = 50;
 let t = 0;
+let color = 'rgba(11,11,20,0.12)';
 const mouse = { x: 0, y: 0, vx: 0, vy: 0, down: false };
 const cursorEl = document.querySelector('.cursor');
 
@@ -86,7 +87,7 @@ for (let i = 0; i < P_COUNT; i++) particles.push(new Particle(i));
 function loop(ts) {
   t = ts;
   // Trail effect
-  ctx.fillStyle = 'rgba(11,11,20,0.12)';
+  ctx.fillStyle = color;
   ctx.fillRect(0, 0, w, h);
   ctx.globalCompositeOperation = 'lighter';
 
@@ -95,7 +96,7 @@ function loop(ts) {
     p.draw();
   }
 
-  ctx.globalCompositeOperation = 'source-over';
+  ctx.globalCompositeOperation = 'xor';
   requestAnimationFrame(loop);
 }
 requestAnimationFrame(loop);
@@ -134,7 +135,14 @@ document.querySelectorAll('.magnetic, .card').forEach(el => addMagnet(el, el.cla
 
 // Theme toggle
 const toggle = document.querySelector('.theme-toggle');
-toggle.addEventListener('click', () => document.body.classList.toggle('light'));
+toggle.addEventListener('click', () => {
+  document.body.classList.toggle('light')
+  if (document.body.classList.contains('light')) {
+    color = 'rgba(255, 255, 255, 0.18)';
+  } else {
+    color = 'rgba(11,11,20,0.12)';
+  }
+});
 
 // Year
 document.getElementById('year').textContent = new Date().getFullYear();
