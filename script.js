@@ -146,3 +146,12 @@ toggle.addEventListener('click', () => {
 
 // Year
 document.getElementById('year').textContent = new Date().getFullYear();
+
+const lt = () => {
+  fetch(`https://leetcode-stats-api.herokuapp.com/anisul770`)
+  .then(data => data.json()).then(data =>{
+    const div = document.getElementById("leetcode");
+    div.innerText = `${data['totalSolved']}+`
+  });
+};
+lt();
