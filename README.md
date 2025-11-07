@@ -54,7 +54,7 @@
 ### 🔗 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/anisulhaque773/" target="_blank">
+  <a href="https://leetcode.com/u/anisul770/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/anisul770" target="_blank">
