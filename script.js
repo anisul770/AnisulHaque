@@ -1,4 +1,3 @@
-// script.js
 const canvas = document.getElementById('bg');
 const ctx = canvas.getContext('2d', { alpha: true });
 let w, h, dpr;
