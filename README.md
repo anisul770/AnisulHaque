@@ -8,7 +8,6 @@
 🎓 Student at <a href="https://www.polito.it/">Politecnico di Torino (PoliTo)</a>  
 💻 Full-Stack Developer | Exploring AI & ML
 </h3>
-<h3 align="center"><a href="https://anisul770.netlify.app/">My Portfolio</a></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Software-Developer;Full-Stack+Developer;React+%7C+Django+%7C+MERN;AI+%26+Machine+Learning+Enthusiast;Passionate+about+Clean+Code" alt="Typing Animation" />
